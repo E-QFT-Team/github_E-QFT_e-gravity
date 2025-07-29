@@ -1,0 +1,26 @@
+# E-QFT E-Gravity Requirements
+# Python 3.8+
+
+# Core scientific computing
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Performance optimization
+numba>=0.54.0
+
+# Signal processing
+PyWavelets>=1.1.1
+scikit-learn>=0.24.0  # For Savitzky-Golay filter
+
+# Parallel processing
+joblib>=1.0.0
+
+# Optional for notebooks
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Development tools (optional)
+pytest>=6.0.0
+black>=21.0
+flake8>=3.9.0

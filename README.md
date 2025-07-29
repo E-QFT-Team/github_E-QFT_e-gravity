@@ -1,4 +1,5 @@
-# E-QFT E-Gravity: Emergent Gravity from Symplectic Quantum Field Theory
+# E-QFT E-Gravity
+# Symplectic E-QFT on the Lattice: Souriau Geometry, Discrete Exterior Calculus and the Emergence of Newtonian Gravity
 
 This repository contains the implementation of emergent gravity within the E-QFT (Emergent Quantum Field Theory) framework, incorporating Souriau's symplectic mechanics and discrete exterior calculus on the lattice.
 

@@ -95,4 +95,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-This work builds on the E-QFT framework for emergent quantum field theory. We thank colleagues for helpful discussions on symplectic mechanics and discrete geometry.
+This work builds on the E-QFT framework for emergent quantum field theory.
